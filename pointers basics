@@ -1,0 +1,21 @@
+@@ Address of operator (&):-
+
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a=10;
+    float b=2.414;
+    
+    cout<<&a<<endl<<&b;
+  
+    return 0;
+}
+
+Output:
+randon addresses come like :-
+0x16db4fa58   // hexa decimayt address
+etc
+#####################################################################
+
+@@ 
